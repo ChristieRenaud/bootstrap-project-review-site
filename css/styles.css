@@ -40,6 +40,14 @@ header h2 {
   bottom: 0;
   z-index: 100; }
 
+#reserveModal .modal-header {
+  background: #17A2B8;
+  color: white; }
+
+#loginModal .modal-header {
+  background: #901CAD;
+  color: white; }
+
 /* My borders showing different div */
 .col, div[class^="col-"], label[class^="col-"] {
   border: 1px solid red;
